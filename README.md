@@ -2,7 +2,7 @@
 ### [2018]
 
 #### Opis i efekty przetwarzania:
-
+Download: https://github.com/pashka39933/POBR-NOKIA/raw/master/%5BPOBR%5D%20Pawel%20Koszelew%20-%20sprawozdanie.pdf
 
 #### Uruchomienie:
 1. Należy skonfigurować środowisko OpenCV + Visual Studio 2017.
